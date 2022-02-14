@@ -142,7 +142,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 50px 125px;
+    padding: 42px 125px;
 }
 
 .cta.title {
@@ -161,4 +161,15 @@ a {
     border: 2px solid white;
     flex-shrink: 1;
     white-space: nowrap;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    text-align: center;
+}
+
+.copyright {
+    padding: 42px;
 }
