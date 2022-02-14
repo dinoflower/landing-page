@@ -8,10 +8,11 @@ body {
 }
 
 .header {
-    display: flex;
     height: 48px;
+    display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-top: 8px;
     margin-bottom: 100px;
 }
 
@@ -158,4 +159,6 @@ a {
 
 .cta.button {
     border: 2px solid white;
+    flex: auto;
+    white-space: nowrap;
 }
