@@ -78,3 +78,32 @@ a {
     margin-top: 12px;
     margin-bottom: 14px;
 }
+
+.info.container {
+    text-align: center;
+    color: #1F2937;
+    margin-bottom: 100px;
+}
+
+.info.title {
+    font-size: 36px;
+    font-weight: 900;
+    padding: 56px;
+}
+
+.info.content {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 42px;
+}
+
+.info.box {
+    max-width: 175px;
+}
+
+.info img {
+    width: 150px;
+    height: auto;
+    border-radius: 15px;
+}
