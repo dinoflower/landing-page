@@ -159,6 +159,6 @@ a {
 
 .cta.button {
     border: 2px solid white;
-    flex: auto;
+    flex-shrink: 1;
     white-space: nowrap;
 }
