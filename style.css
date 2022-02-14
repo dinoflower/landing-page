@@ -95,15 +95,15 @@ a {
     display: flex;
     justify-content: center;
     align-items: baseline;
-    gap: 42px;
+    gap: 52px;
 }
 
 .info.box {
-    max-width: 175px;
+    max-width: 165px;
 }
 
 .info img {
-    width: 150px;
+    max-width: 100%;
     height: auto;
     border-radius: 15px;
 }
